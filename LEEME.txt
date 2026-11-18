@@ -1,0 +1,5 @@
+Proyecto base RDA-3 Lab 10.1 (Concurrencia y Programacion Asincrona).
+- Abrir con File > Open en Android Studio Ladybug.
+- Verificar en gradle.properties que org.gradle.java.home apunte a la ruta real de Android Studio (jbr).
+- Si falta gradlew / gradle/wrapper, copiarlos desde el proyecto del Laboratorio 1.
+- Renombrar la carpeta a RDA3_Laboratorio10_TuNombreApellido.
